@@ -83,7 +83,7 @@
     </build>
     <groupId>org.example</groupId>
     <artifactId>java-lib-attempt-4</artifactId>
-    <version>1.0.4-SNAPSHOT</version>
+    <version>1.0.3-snapshot</version>
     <name>Library example</name>
     <description>Example library for publishing to Maven Central</description>
     <url>https://github.com/DavideBarbaro/lib-test-attempt4</url>
