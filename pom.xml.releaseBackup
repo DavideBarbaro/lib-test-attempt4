@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <build>
         <plugins>
@@ -118,15 +120,14 @@
         <connection>scm:git:git://github.com/DavideBarbaro/lib-test-attempt4.git</connection>
         <developerConnection>scm:git:ssh://github.com:DavideBarbaro/lib-test-attempt4.git</developerConnection>
         <url>https://github.com/DavideBarbaro/lib-test-attempt4</url>
-      <tag>java-lib-attempt-4</tag>
-  </scm>
+    </scm>
 
     <developers>
         <developer>
             <name>Davide Barbaro</name>
             <email>dado.barbaro@gmail.com</email>
             <organization>Non Studious</organization>
-            <organizationUrl>https://github.com/DavideBarbaro/lib-test-attempt4</organizationUrl>
+            <organizationUrl>https://github.com/DavideBarbaro</organizationUrl>
         </developer>
     </developers>
 
