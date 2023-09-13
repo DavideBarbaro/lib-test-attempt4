@@ -16,8 +16,32 @@
         </plugins>
     </build>
     <groupId>org.example</groupId>
-    <artifactId>java-lib-attempt-3</artifactId>
+    <artifactId>java-lib-attempt-4</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <name>Library example</name>
+    <description>Example library for publishing to Maven Central</description>
+    <url>https://github.com/DavideBarbaro/lib-test-attempt4</url>
+    <licenses>
+        <license>
+            <name>GNU General Public License</name>
+            <url>https://www.gnu.org/licenses/gpl-3.0.en.html</url>
+        </license>
+    </licenses>
+
+    <scm>
+        <connection>scm:git:git://github.com/DavideBarbaro/lib-test-attempt4.git</connection>
+        <developerConnection>scm:git:ssh://github.com:DavideBarbaro/lib-test-attempt4.git</developerConnection>
+        <url>https://github.com/DavideBarbaro/lib-test-attempt4</url>
+    </scm>
+
+    <developers>
+        <developer>
+            <name>Davide Barbaro</name>
+            <email>dado.barbaro@gmail.com</email>
+            <organization>Non Studious</organization>
+            <organizationUrl>https://github.com/DavideBarbaro</organizationUrl>
+        </developer>
+    </developers>
 
     <properties>
         <maven.compiler.source>20</maven.compiler.source>
