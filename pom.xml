@@ -116,7 +116,7 @@
 
     <scm>
         <connection>scm:git:git://github.com/DavideBarbaro/lib-test-attempt4.git</connection>
-        <developerConnection>scm:git:ssh://github.com:DavideBarbaro/lib-test-attempt4.git</developerConnection>
+        <developerConnection>scm:git:ssh://github.com/DavideBarbaro/lib-test-attempt4.git</developerConnection>
         <url>https://github.com/DavideBarbaro/lib-test-attempt4</url>
       <tag>java-lib</tag>
   </scm>
